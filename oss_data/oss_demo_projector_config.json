@@ -4,7 +4,7 @@
       "tensorName": "AO3 DBH w2v embeddings",
       "tensorShape": [18733, 200],
       "tensorPath": "oss_data/dbh_tensor.tsv",
-      "metadataPath": "oss_data/dbh_metadata.tsv"
+      "metadataPath": "oss_data/dbh_metadata.tsv",
       "bookmarksPath": "oss_data/umap_dbh"
     },
   ],
