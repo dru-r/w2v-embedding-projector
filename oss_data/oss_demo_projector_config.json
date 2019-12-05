@@ -6,7 +6,7 @@
       "tensorPath": "oss_data/dbh_tensor.tsv",
       "metadataPath": "oss_data/dbh_metadata.tsv",
       "bookmarksPath": "oss_data/umap_dbh"
-    },
+    }
   ],
   "modelCheckpointPath": "AO3 DBH data"
 }
